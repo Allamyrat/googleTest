@@ -1,0 +1,6 @@
+guru/qa/tests/demoqaTest/TextBoxTest.java
+ guru.qa.tests.demoqaTest.TextBoxTest
+guru/qa/tests/practice/IntellijShortcutsPractice.java
+ guru.qa.tests.practice.IntellijShortcutsPractice
+guru/qa/tests/practice/SearchTest.java
+ guru.qa.tests.practice.SearchTest
